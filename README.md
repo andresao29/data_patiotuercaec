@@ -23,14 +23,20 @@ Indice
 
 ## Capturas del programa funcionando
 
+**Extracción de datos**
 ![Extracción de datos](imagenes/extract_datos.jpeg)
 
+**Inicio de Web Service**
 ![Inicio de Web Service](imagenes/inicio_webservice.jpeg)
 
+**Web service multiples marcas**
 ![Web service multiples marcas](imagenes/webservice_multiple.jpeg)
 
+**Pinged a Mongosbd**
 ![Ping a Mongosbd](imagenes/pinged_mongos.jpeg)
 
+**POSTMAN**
 ![POSTMAN](imagenes/post.jpeg)
 
-![Resgitros guarados en MongosDB](imagenes/registros_mongosdb.jpeg)
+**Registros guarados en MongosDB**
+![Registros guarados en MongosDB](imagenes/registros_mongosdb.jpeg)
