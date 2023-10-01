@@ -9,4 +9,6 @@ Indice
 
   ##Funcionalidad buscada
 
-  Con este codigo se pretende realizar la extración de información de una pagina de venta de autos con fines eduactivos
+  Con este codigo se pretende realizar la extración de información de una pagina de venta de autos con fines eduactivos en la cual se ha realizado el metodo de inspeción de código directamente en la pagina al realizar una busqueda para identificar su API la cual es [link](https://ecuador.patiotuerca.com/ptx/api/v2/nitros?type=autos&brand=kia&model=sportage%20r&subtype=&count=2&_=1695961279559) y con la cual mediante el código logramos extraer los datos requeridos lo cuales son (anio, ciudad, marca, modelo, precio), una vez obtenida la información se realizó la creación de un Webservice con el cual se puede presentar la información extraida mediante la siguiente direccion de red local mediante flask el cual nos permite colocando la direcciñon <http://127.0.0.1:3000/api/multiple/?marcas=kia,chevrolet,ford,hyundai,renault> crear consultas multiples de varias marcas o consultas individuales mediante el siguiente link <http://127.0.0.1:3000/api/renault>, una vez realizado este proceso se procedio a guardar en MongosDB dichas consulta utilizando la herramienta POSTMAN colocando en el metodo POST la url <http://127.0.0.1:3000/api/renault> y remplazando la palabra renault por varias marcas de autos como ford, hyundai, chevrolet y con esto completamos el objetivo planteado.
+
+## Problemas encontrados.
