@@ -23,6 +23,14 @@ Indice
 
 ## Capturas del programa funcionando
 
-[img1]: /data_patiotuercaec/imagenes/extract_datos.jpg "Extracción de datos"
 ![Extracción de datos](imagenes/extract_datos.jpeg)
-[img2]: /data_patiotuercaec/imagenes/inicio_webservice.jpg "Inicio de Web Service"
+
+![Inicio de Web Service](imagenes/inicio_webservice.jpeg)
+
+![Web service multiples marcas](imagenes/webservice_multiple.jpeg)
+
+![Ping a Mongosbd](imagenes/pinged_mongos.jpeg)
+
+![POSTMAN](imagenes/post.jpeg)
+
+![Resgitros guarados en MongosDB](imagenes/registros_mongosdb.jpeg)
