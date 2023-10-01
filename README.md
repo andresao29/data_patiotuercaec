@@ -24,4 +24,5 @@ Indice
 ## Capturas del programa funcionando
 
 [img1]: /data_patiotuercaec/imagenes/extract_datos.jpg "Extracción de datos"
+![Extracción de datos](/data_patiotuercaec/imagenes/extract_datos.jpg)
 [img2]: /data_patiotuercaec/imagenes/inicio_webservice.jpg "Inicio de Web Service"
