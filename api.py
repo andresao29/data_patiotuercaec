@@ -1,4 +1,4 @@
-from flask import Flask
+from flask import Flask, render_template
 from flask import request
 
 from autos_dat import get_price, set_price
@@ -6,8 +6,8 @@ from autos_dat import get_price, set_price
 app = Flask(__name__)
 
 @app.route("/")
-def hello_world():
-    return "<p>Hello, World!</p>"
+def index():
+    return render_template('index.html')
 
 
 @app.route("/api/<marca>", methods=["GET"])

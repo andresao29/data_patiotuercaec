@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SISTEMA DE EXTRACCIÓN DE INFORMACION PATIOTUERCA</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <h1>SISTEMA DE EXTRACCIÓN DE INFORMACION PATIOTUERCA</h1>
+    <div class="menu">
+        <h2>Menú Principal</h2>
+        <ul>
+            <li><a href="/api/renault">Precios Renault</a></li><br>
+            <li><a href="/api/ford">Precios Ford</a></li><br>
+            <li><a href="/api/kia">Precios Kia</a></li><br>
+            <li><a href="/api/hyundai">Precios Hyundai</a></li><br>
+            <li><a href="/api/multiple/?marcas=kia,chevrolet,ford,hyundai,renault">Precios Multiples marcas</a></li><br>
+        </ul>
+    </div>
+</body>
+</html>
