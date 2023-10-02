@@ -5,6 +5,7 @@ Indice
 - Problemas encontrados
 - Url API encontrada
 - Capturas del programa funcionando
+- Web service con Menu multimarcas para realizar consultas directas
 
 
 ## Funcionalidad buscada
@@ -20,6 +21,14 @@ Indice
 ## Url API encontrada
 
 <https://ecuador.patiotuerca.com/ptx/api/v2/nitros?type=autos&brand=kia&model=sportage%20r&subtype=&count=2&_=1695961279559>
+
+## Web service con Menu multimarcas para realizar consultas directas
+
+Se preparo un menu en HTML el cual nos presenta una pantalla principal donde podemos elegir varias marcas o una en especifico para la extraccion de información.
+
+**Webservice con multiples opciones de marcas**
+![Pagina principal WEB service](imagenes/webservice_con_opciones_marcas.jpeg) 
+
 
 ## Capturas del programa funcionando
 
