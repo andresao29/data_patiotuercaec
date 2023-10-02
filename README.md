@@ -43,4 +43,4 @@ Indice
 ![Registros guarados en MongosDB](imagenes/registros_mongosdb.jpeg)   
 
 **Webservice con multiples opciones de marcas**
-![Pagina principal WEB service](imagenes/webservice con opciones de marcas.jpeg) 
+![Pagina principal WEB service](imagenes/webservice_con_opciones_marcas.jpeg) 
